@@ -7,7 +7,7 @@ namespace ClothBazar.Web.Models
     {
         [Required]
         [Display(Name = "Email")]
-        public string Email { get; set; } 
+        public string Email { get; set; } V
     }
 
     public class ExternalLoginListViewModel
